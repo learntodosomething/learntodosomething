@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Ozogány László – Junior Developer" src="banner-neuralv2.svg" />
+<img src="https://raw.githubusercontent.com/learntodosomething/learntodosomething/main/banner-neuralv2.svg" width="100%" />
 
 <br/>
 

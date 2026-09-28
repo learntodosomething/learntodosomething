@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/learntodosomething/learntodosomething/main/banner-neuralv2.svg" width="100%" />
+<img width="100%" alt="Ozogány László – Junior Developer" src="banner-neuralv2.svg" />
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=learntodosomething&theme=tokyonight&hide_border=true" /><br/>
